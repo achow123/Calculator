@@ -36,4 +36,10 @@
 	
 	
 }
-/* */
+/* Calculator Buttons */
+.keys {
+	position: relative;
+	top: 15px;
+
+
+}
